@@ -23,16 +23,18 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div>
+        <p>
         <ul>
           <li> <h3><a href="{{ "/" | absolute_url }}">Home</a></li></h3>
           <li> <h3><a href="about">About Me</a></li></h3>
           <li><h3><a href="research">Research</a></li></h3>
           <li><h3><a href="Kreisberg_CV_2019.pdf">Dowload CV</a></li></h3>
         </ul>
-        </div>
+        </p>
 
+        <p>
         <img src='fullsizeoutput_1bc.jpeg' height='250px'>
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
