@@ -4,7 +4,7 @@
 
 Nicole’s primary area of interest centers around immigrant inequalities in the labor force, as well as the socio-legal processes which explain those inequalities. In a paper published in [Social Forces](https://academic.oup.com/sf/advance-article-abstract/doi/10.1093/sf/soy128/5320369?redirectedFrom=fulltext), she evaluates whether the legal status categories with which immigrants enter the country stratify their opportunities for labor market integration. Using nationally representative data and propensity score weighting techniques, she finds that immigrants' legal starting points are associated with persistent, ordered differences in immigrants’ occupational positions, even after immigrants change legal status. 
 
-![](social_forces.png | width=100)
+![social forces](social_forces.png) <!-- .element style="height: 100px" -->
 
 In Nicole’s [dissertation](dissertation.md), she focuses on the independent effects of legal status in the labor market. Specifically, she uses a correspondence audit study and a national survey experiment of employers to test whether and why Latinos’ nativity and legal status affect their employment opportunities. This work has been supported by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?).
 
