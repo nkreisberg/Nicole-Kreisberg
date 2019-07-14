@@ -23,14 +23,12 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <h2>
         <ul>
-        <li> <a href="{{ "/" | absolute_url }}">Home</a></li>
-        <li> <a href="about">About Me</a></li>
-        <li> <a href="research">Research</a></li>
-        <li> <a href="Kreisberg_CV_2019.pdf">Dowload CV</a></li>
+          <li> <h3><a href="{{ "/" | absolute_url }}">Home</a></li></h3>
+          <li> <h3><a href="about">About Me</a></li></h3>
+          <li><h3><a href="research">Research</a></li></h3>
+          <li><h3><a href="Kreisberg_CV_2019.pdf">Dowload CV</a></li></h3>
         </ul>
-        </h2>
 
 
         {% if site.show_downloads %}
