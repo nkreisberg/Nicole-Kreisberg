@@ -17,7 +17,3 @@ In another co-authored paper with [Elizabeth Jacobs](https://sociology.sas.upenn
 #### Educational Inequality
 
 A third area of research concerns inequalities in higher education. In collaboration with [Amy Hsin](https://sites.google.com/view/amyhsin) of Queen’s College, Nicole examines the academic trajectories of undocumented students. The literature on higher education and mobility suggests that high-performing students in high school often experience an upward educational achievement trajectory in college, otherwise known as educational progression. Using administrative data from a large public university, they find that despite strong academic performance in high school, undocumented students experience what they call an educational regression in academic achievement relative to their documented and U.S.-citizen peers over time. They develop a theoretical and empirical framework for describing this unique trajectory.
-
-“The Hiring Prospects of Latinos” Page
-
-Nicole's doctoral dissertation research relies on mixed-methods—including a correspondence audit study, a survey experiment, and in-depth interviews with workers and employers—to examine the effects of nativity and documentation status on Latinos’ employment opportunities. 
