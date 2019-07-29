@@ -12,6 +12,8 @@ In Nicole’s [dissertation](dissertation.md), she focuses on the independent ef
 
 Another area of interest revolves around gender and migration. In a co-authored paper with [Margot Jackson](https://www.brown.edu/academics/sociology/people/margot-jackson) of Brown University, Nicole studies how the intersection of gender and legal status shapes labor market sorting and occupational mobility over time. Using nationally representative data, they find that women experience a 'double disadvantage' in the labor market associated with prior exposure to undocumented status. This disadvantage actually widens over time relative to women who were never undocumented. 
 
+![scarring](scarring.png) <!-- .element style="height: 100px" -->
+
 In another co-authored paper with [Elizabeth Jacobs](https://sociology.sas.upenn.edu/content/elizabeth-jacobs) of the University of Pennsylvania, Nicole revisits conventional understanding of gender differences in occupational attainment in the context of highly skilled legal migration to the United States. Drawing on a unique combination of nationally representative data and in-depth interviews with skilled migrants, they find that a U.S. relative to a foreign education has a large premium in the global labor market, and it has the power to mitigate the gender gap in occupational attainment.
 
 #### Educational Inequality
