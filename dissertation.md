@@ -12,4 +12,4 @@ The in-depth interviews reveal that employers’ interpretation of immigration l
 
 ![audit4](audit4.png) <!-- .element style="height: 100px" -->
 
-The paper summarizing the results of the audit study and in-depth interviews are currently under review.
+A paper summarizing the results of the audit study and in-depth interviews are currently under review. Another working paper summarizes the results of the national survey experiment.
