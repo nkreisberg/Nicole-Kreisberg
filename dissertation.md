@@ -12,4 +12,4 @@ In an audit of 1,364 job postings in eight metros, I find that native-born Latin
 
 The in-depth interviews reveal that it is employers’ interpretation of immigration laws that shapes their perceptions of risk and their attitudes toward immigrants. Specifically, enforcement laws that criminalize both documented and undocumented immigrants have led employers to associate all immigrant Latinos with an increased risk of deportation. In addition, anti-discrimination laws, which offer fewer protections to immigrants, have shaped and justified employers’ attitudes that immigrants’ lower legal standing signals lower social standing. 
 
-![audit1](audit1.png) <!-- .element style="height: 100px" -->
+![audit2](audit2.png) <!-- .element style="height: 100px" -->
