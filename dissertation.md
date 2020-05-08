@@ -6,10 +6,10 @@ Nicole's doctoral dissertation research relies on mixed-methods—-including a c
 
 In an audit of 1,364 job postings in eight metros, I find that native-born Latinos have almost twice the callback rate as foreign-born Latinos,regardless of whether those foreign-born have signals that they are "documented" or "undocumented." 
 
-![audit1](audit1.png) <!-- .element style="height: 100px" -->
+![audit3](audit3.png) <!-- .element style="height: 100px" -->
 
 ### Law in Action: Explaining Immigrant Discrimination
 
 The in-depth interviews reveal that it is employers’ interpretation of immigration laws that shapes their perceptions of risk and their attitudes toward immigrants. Specifically, enforcement laws that criminalize both documented and undocumented immigrants have led employers to associate all immigrant Latinos with an increased risk of deportation. In addition, anti-discrimination laws, which offer fewer protections to immigrants, have shaped and justified employers’ attitudes that immigrants’ lower legal standing signals lower social standing. 
 
-![audit2](audit2.png) <!-- .element style="height: 100px" -->
+![audit4](audit4.png) <!-- .element style="height: 100px" -->
