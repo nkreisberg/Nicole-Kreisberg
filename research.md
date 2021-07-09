@@ -7,6 +7,9 @@ Nicole’s primary area of interest centers around immigrant inequalities in the
 
 In Nicole’s [dissertation](dissertation.md), she focuses on the independent effects of nativity and legal status in the labor market. Specifically, she uses a correspondence audit study, a national survey experiment of employers, and in-depth interviews to test whether and why Latinos’ nativity and documentation status affect their employment opportunities. This work has been supported by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?).
 
+In another co-authored paper with [Els De Grauuw] (https://elsdegraauw.weebly.com/) and [Shannon Gleeson] (https://www.ilr.cornell.edu/people/shannon-gleeson), Nicole uses mixed-methods to understand how structural shortcomings in federal refugee resettlement support explain declines in refugees’ employment over time. 
+
+
 ### Educational Inequality
 
 A second area of research concerns inequalities in higher education. In a co-authored paper with [Amy Hsin](https://sites.google.com/view/amyhsin) of Queen’s College, recently published in the [Journal of Ethnic and Migration Studies](https://www.tandfonline.com/eprint/ZAHPEDBUTGXIAZGFQPN5/full?target=10.1080/1369183X.2020.1750947), Nicole examines the academic trajectories of undocumented students. She finds that despite strong academic performance in high school, undocumented students experience what she calls an educational regression in academic achievement relative to their documented and U.S.-citizen peers over time. She develops a model for describing this unique trajectory.
