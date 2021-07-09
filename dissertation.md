@@ -1,6 +1,6 @@
 ## The Hiring Prospects of U.S. Latinos
 
-Nicole's doctoral dissertation research relies on mixed-methods—including a correspondence audit study of 1,364 job postings in eight large metropolitan areas, a national survey experiment of 1,500 employers, and in-depth interviews with 41 employers, service providers, and lawyers—to examine the effects of nativity and documentation status on Latinos’ employment opportunities. 
+Nicole's doctoral dissertation research relies on mixed-methods—including a correspondence audit study of 1,364 job postings in eight large metropolitan areas, a national survey experiment of 1,515 employers, and in-depth interviews with 47 employers, service providers, and lawyers—to examine the effects of nativity and legal status on Latinos’ employment opportunities. 
 
 ### Employment Discrimination Against Latino Immigrants
 
@@ -12,4 +12,4 @@ The in-depth interviews reveal that employers’ interpretation of immigration l
 
 ![audit4](audit4.png) <!-- .element style="height: 100px" -->
 
-A paper summarizing the results of the audit study and in-depth interviews are currently under review. Another working paper summarizes the results of the national survey experiment.
+A paper summarizing the results of this mixed-methods study is currently under review. Another working paper summarizes the results of the national survey experiment.
