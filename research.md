@@ -5,7 +5,7 @@ Nicole’s primary area of interest centers around immigrant inequalities in the
 
 ![social forces](social_forces.png) <!-- .element style="height: 100px" -->
 
-In Nicole’s [dissertation](dissertation.md), she focuses on the independent effects of nativity and legal status in the labor market. Specifically, she uses a correspondence audit study, a national survey experiment of employers, and in-depth interviews to test whether and why Latinos’ nativity and legal status affect their employment opportunities. This work has been supported by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?).
+In Nicole’s [dissertation](dissertation.md), she focuses on the independent effects of nativity and legal status in the labor market. Specifically, she uses a correspondence audit study, a national survey experiment of employers, and in-depth interviews to test whether and why Latinos’ nativity and legal status affect their employment opportunities. This work has been supported by the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?), and a working paper from the project can be found at [SocArXiv] (https://osf.io/preprints/socarxiv/wse6n/).
 
 In another co-authored paper with [Els De Graauw](https://elsdegraauw.weebly.com) and [Shannon Gleeson](https://www.ilr.cornell.edu/people/shannon-glesson), Nicole uses mixed-methods to understand how structural shortcomings in federal refugee resettlement support explain declines in refugees’ employment over time. 
 
