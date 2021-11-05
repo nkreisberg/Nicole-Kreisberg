@@ -1,4 +1,4 @@
-Nicole has her PhD in Sociology from Brown University. Starting September of 2021, she is a [David E. Bell Postdoctoral Fellow](https://www.hsph.harvard.edu/population-development/postdoctoral-fellowships/bell-fellowship/) at Harvard University's Center for Population and Development Studies.
+Nicole has her PhD in Sociology from Brown University, and she is currently a [David E. Bell Postdoctoral Fellow](https://www.hsph.harvard.edu/population-development/postdoctoral-fellowships/bell-fellowship/) at Harvard University's Center for Population and Development Studies.
 
 Nicole's research interests include immigrant, racial, and gender stratification, labor markets and educational institutions, and law, organizations, and society. Her research agenda examines educational and labor market inequalities among Latinxs, as well as the racial, socio-legal, and organizational processes which explain such inequalities. 
 
