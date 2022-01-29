@@ -9,6 +9,8 @@ In Nicole’s first book project, stemming from her doctoral [dissertation](diss
 
 In another co-authored paper at [Social Problems](https://academic-oup-com.revproxy.brown.edu/socpro), with [Els De Graauw](https://elsdegraauw.weebly.com) and [Shannon Gleeson](https://www.ilr.cornell.edu/people/shannon-glesson), Nicole uses mixed-methods to understand how structural shortcomings in federal refugee resettlement support explain declines in refugees’ employment over time. Survey data from the New Immigrant Survey show that refugees' employment rates decline over time compared to non-refugee migrants. Interviews with non-profit leaders across the U.S. illustrate that three interrelated structural weaknesses in the federal refugee resettlement process that help account for these employment declines: (1) retrenched resettlement funding, (2) a logic of self-sufficiency prioritizing rapid employment in generally undesirable and unstable jobs, and (3) siloed networks of refugee-serving organizations. 
 
+An essay summarizing these findings can be found [here](https://medium.com/berkeley-interdisciplinary-migration-initiative/are-refugee-resettlement-services-doing-more-harm-than-good-85cafac673c).
+
 Finally, Nicole is engaged in research on discrimination and labor market inequalities more generally. In a paper with [Nathan Willmers](https://mitsloan.mit.edu/faculty/directory/nathan-wilmers) at [ILR Review](https://journals.sagepub.com/doi/10.1177/00197939211036444), she examines whether and why employers discriminate against men with union experience.
 
 ### Educational Inequality
