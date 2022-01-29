@@ -1,5 +1,5 @@
 
-### Immigrant Inequality in the Labor Force
+### Labor Market Inequality
 
 Nicole’s primary area of interest centers around immigrant inequalities in the labor force. In a paper published in [Social Forces](https://academic.oup.com/sf/advance-article-abstract/doi/10.1093/sf/soy128/5320369?redirectedFrom=fulltext), she evaluates whether immigrants' legal status starting points stratify their opportunities for labor market integration. She finds that immigrants' legal starting points are associated with persistent, ordered differences in immigrants’ occupational positions, even after immigrants change legal status. 
 
