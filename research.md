@@ -9,7 +9,7 @@ In Nicole’s first book project, stemming from her doctoral [dissertation](diss
 
 In Nicole's latest [Op-Ed](https://www.chicagotribune.com/opinion/commentary/ct-opinion-latinos-green-cards-hiring-discrimination-20220207-hixwjn7hrra3deptqqktfk4dz4-story.html), she summarizes part of this work for the Chicago Tribune.
 
-![printoped](printoped.png) <!-- .element style="height: 100px" -->
+![opedprint](opedprint.png) <!-- .element style="height: 100px" -->
 
 In another co-authored paper at [Social Problems](https://academic-oup-com.revproxy.brown.edu/socpro), with [Els De Graauw](https://elsdegraauw.weebly.com) and [Shannon Gleeson](https://www.ilr.cornell.edu/people/shannon-glesson), Nicole uses mixed-methods to understand how structural shortcomings in federal refugee resettlement support explain declines in refugees’ employment over time. Survey data from the New Immigrant Survey show that refugees' employment rates decline over time compared to non-refugee migrants. Interviews with non-profit leaders across the U.S. illustrate that three interrelated structural weaknesses in the federal refugee resettlement process that help account for these employment declines: (1) retrenched resettlement funding, (2) a logic of self-sufficiency prioritizing rapid employment in generally undesirable and unstable jobs, and (3) siloed networks of refugee-serving organizations. 
 
