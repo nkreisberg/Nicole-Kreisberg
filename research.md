@@ -15,7 +15,7 @@ In another co-authored paper at [Social Problems](https://academic-oup-com.revpr
 
 The paper was covered by [The Hill](https://thehill.com/changing-america/respect/accessibility/593930-refugees-in-the-us-cant-retain-employment-for-long). An essay summarizing these findings can be found [here](https://medium.com/berkeley-interdisciplinary-migration-initiative/are-refugee-resettlement-services-doing-more-harm-than-good-85cafac673c). And a research brief on the topic can be found at the [Scholars Strategy Network](https://scholars.org/contribution/refugee-resettlement-should-look-beyond-first).
 
-Finally, Nicole is engaged in research on discrimination and labor market inequalities more generally. In a paper with [Nathan Willmers](https://mitsloan.mit.edu/faculty/directory/nathan-wilmers) at [ILR Review](https://journals.sagepub.com/doi/10.1177/00197939211036444), she examines whether and why employers discriminate against men with union experience.
+Finally, Nicole is engaged in research on discrimination and labor market inequalities more generally. In a paper with [Nathan Wilmers](https://mitsloan.mit.edu/faculty/directory/nathan-wilmers) at [ILR Review](https://journals.sagepub.com/doi/10.1177/00197939211036444), she examines whether and why employers discriminate against men with union experience.
 
 ### Educational Inequality
 
