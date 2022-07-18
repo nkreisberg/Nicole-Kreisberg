@@ -1,6 +1,6 @@
 ## Latino Immigrants and the School-to-Work Transition
 
-Nicole's first book project is a mixed-methods project of Latino immigrants' entire school-to-work transition. The book includes diverse data—including a correspondence audit study of 1,364 job postings in eight large metropolitan areas, a national survey experiment of 1,515 employers, and in-depth interviews with nearly 100 students, employers, college counselors, service providers, and lawyers. The book seeks to understand why often even college-educated, foreign-born Latinos are excluded from high-paying jobs after graduation. 
+Nicole's first book is a mixed-methods project of Latino immigrants' entire school-to-work transition. The book includes diverse data—including a correspondence audit study of 1,364 job postings in eight large metropolitan areas, a national survey experiment of 1,515 employers, and in-depth interviews with nearly 100 students, employers, college counselors, service providers, and lawyers. The book seeks to understand why often even college-educated, foreign-born Latinos are excluded from high-paying jobs after graduation. 
 
 ### Nativity Penalty and Legal Status Paradox
 
