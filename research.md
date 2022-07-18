@@ -23,7 +23,7 @@ A second area of research concerns inequalities in higher education. In a co-aut
 
 ### Gender and Migration
 
-Another area of interest revolves around gender and migration. In a co-authored paper under review with [Margot Jackson](https://www.brown.edu/academics/sociology/people/margot-jackson), Nicole studies how the intersection of gender and legal status shapes labor market sorting and occupational mobility over time. She finds that women experience a 'double disadvantage' in the labor market associated with prior exposure to undocumented status. This disadvantage actually widens over time. 
+Another area of interest revolves around gender and migration. In a co-authored paper forthcoming at Sociological Perspectives with [Margot Jackson](https://www.brown.edu/academics/sociology/people/margot-jackson), Nicole studies how the intersection of gender and legal status shapes labor market sorting and occupational mobility over time. She finds that women experience a 'double disadvantage' in the labor market associated with prior exposure to undocumented status. This disadvantage actually widens over time. 
 
 ![scarring](scarring.png) <!-- .element style="height: 100px" -->
 
